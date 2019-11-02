@@ -1,4 +1,4 @@
 void main(){
-  int indade = 19;
-  print(indade);
+  int idade = 19;
+  print(idade);
 }
